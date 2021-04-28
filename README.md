@@ -15,7 +15,7 @@ Welcome to Fibonia's GitHub repository, a service that aggregates information fr
 #### **System Overview :**
 
 <p align="center">
-  <img src="./img/image.png" alt="Size Limit CLI" width="738">
+  <img src="./img/image.png" alt="Demo System Overview" width="738">
 </p>
 
 ## How It Works
