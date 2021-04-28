@@ -1,7 +1,7 @@
 # Fibonia
 
 <img src="./img/FibLogoHighRes.png" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="178" height="178">
+     alt="Fibonia Logo" width="178" height="178">
 
 Welcome to Fibonia's GitHub repository, a service that aggregates information from multiple sources onto a single feed, giving users a stream of curated, relevant and fact-checked information on the topics they're passionate about, and helping those looking to explore something new do so with minimal time spent on research.
 
